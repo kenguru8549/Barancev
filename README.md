@@ -1,1 +1,1 @@
-# Barancev
+# Repository for python traning
